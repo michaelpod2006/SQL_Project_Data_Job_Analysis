@@ -6,6 +6,7 @@ Starting answering questions about:
 */
 
 SELECT 
+    job_id,
     job_title,
     job_location,
     salary_year_avg,
